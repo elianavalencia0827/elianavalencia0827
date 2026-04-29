@@ -1,6 +1,6 @@
 <img width="1453" height="762" alt="image" src="https://github.com/user-attachments/assets/9fda833b-d2cb-4d15-8c65-0f781ba8169b" />
 
-## Hi there, I'm Eliana 👋
+# Hi there, I'm Eliana 👋
 
 🎓 Master’s student in Strategic Studies
 
@@ -8,7 +8,7 @@
 
 🌍 International background | Business & Data
 
-# Let me introduce myself
+## Let me introduce myself
 
 **💫 About me**
 

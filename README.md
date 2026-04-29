@@ -3,7 +3,9 @@
 ## Hi there, I'm Eliana 👋
 
 🎓 Master’s student in Strategic Studies
+
 📊 Aspiring Data Analyst
+
 🌍 International background | Business & Data
 
 # Let me introduce myself

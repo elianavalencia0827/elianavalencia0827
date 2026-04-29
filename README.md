@@ -1,4 +1,4 @@
-<img width="1449" height="725" alt="image" src="https://github.com/user-attachments/assets/90d0d46a-5ea3-419a-abcb-3971ad117a1f" />
+<img width="1467" height="568" alt="image" src="https://github.com/user-attachments/assets/92aa7252-6872-4e5c-a014-79047d2bba0c" />
 
 # Hi there, I'm Eliana 👋
 
